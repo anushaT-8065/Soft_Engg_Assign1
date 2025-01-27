@@ -4,7 +4,7 @@ A database of users is maintained for clarity and organisation.
 
 📂 disaster-alert-system
 │
-├── app.py               # Main Streamlit app code
+├── app.py               # Main Flask app code
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project documentation
 
